@@ -1,4 +1,4 @@
-# Real-time Sound Processor - Thinh Le
+# Sound Processor - Thinh Le
 
 ## Project Information:
 
