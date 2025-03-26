@@ -1,4 +1,4 @@
-# Sound Processor - Thinh Le
+# Sound Processor
 
 ## Project Information:
 
